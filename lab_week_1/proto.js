@@ -1,3 +1,6 @@
+// Name: Jacob Solano
+// Student ID: 101348583
+
 function Student(sid, name) {
     this.sid = sid
     this.name = name

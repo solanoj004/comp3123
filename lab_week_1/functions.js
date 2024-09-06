@@ -1,3 +1,6 @@
+// Name: Jacob Solano
+// Student ID: 101348583
+
 // Declaring functions
 function welcome() {
     console.log('Welcome to the class');
