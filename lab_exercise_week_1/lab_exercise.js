@@ -1,3 +1,7 @@
+// Jacob Solano
+// 101348583
+
+// Finding angle type javascript program
 function find_angle_type(angle) {
     if (angle === 0) {
         return "No angle";
